@@ -14,6 +14,8 @@ O **EventEasy** é a solução definitiva para simplificar a organização de ev
 - 💰 **Vaquinha**: Crie e administre uma vaquinha para arrecadar fundos.
 - 📅 **Calendário**: Organize e visualize todas as datas e prazos importantes.
 - 🎵 **Playlist**: Crie e compartilhe playlists para animar o evento.
+- 💳 **Pagamentos Integrados**: Utilize a API do Mercado Pago para gerenciar pagamentos.
+- 🎶 **Integração com Spotify**: Conecte sua conta Spotify para criar playlists personalizadas.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -25,6 +27,8 @@ O **EventEasy** é a solução definitiva para simplificar a organização de ev
 - **Fastify** - Framework rápido para APIs
 - **Tailwind CSS** - Estilização
 - **PostgreSQL** - Banco de dados
+- **Mercado Pago API** - Integração de pagamentos
+- **Spotify API** - Integração de playlists
 
 ## 📌 Como Usar
 
@@ -35,6 +39,8 @@ O **EventEasy** é a solução definitiva para simplificar a organização de ev
 5. Aproveite o código de compartilhamento para ampliar o alcance do evento.
 6. Controle as compras e a vaquinha diretamente pelo aplicativo.
 7. Organize o evento com o calendário e aproveite a playlist para uma experiência memorável.
+8. Configure os pagamentos com a API do Mercado Pago.
+9. Sincronize sua conta Spotify para criar playlists exclusivas para o evento.
 
 ## 📥 Como Executar o Projeto Localmente
 
@@ -68,4 +74,5 @@ O **EventEasy** é a solução definitiva para simplificar a organização de ev
    ```sh
    npx expo start
    ```
+
 
